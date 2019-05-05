@@ -1,0 +1,18 @@
+.top{
+    text-align: left;
+    margin: 6%;
+}
+.top input{
+    margin-bottom: 3%;
+    width: 60%;
+}
+.top svg{
+    position: absolute;
+    bottom: 2%;
+    right: 1%
+ 
+}
+
+.card{
+    padding-bottom: 1%;
+}

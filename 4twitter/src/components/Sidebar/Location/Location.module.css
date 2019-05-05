@@ -1,0 +1,34 @@
+.test{
+    height: 10%;
+    width: 22%;
+    margin: 2% 2%;
+    padding: 1% 0;
+    position: absolute;
+    top: 70%;
+}
+
+.test img{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.test button {
+    background-color: #55acee;
+}
+
+.test ul {
+
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    text-align: left;
+
+
+    
+}
+.cardb {
+    margin: 0;
+
+}
+

@@ -1,0 +1,29 @@
+.NavigationItems {
+    margin: 3px 3px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 50px;
+    border-bottom: 1px solid #55acee;
+
+    
+}
+
+.NavigationItems h3 {
+        width: 100%;
+        color: #55acee;
+        
+}
+
+
+@media (min-width: 500px) {
+    .NavigationItems {
+        flex-flow: row;
+        background-color: white;
+        
+    }
+
+    
+}

@@ -1,0 +1,44 @@
+.test{
+    position: absolute !important;
+    height: 10%;
+    width: 70%;
+    margin-left: 26%;
+    margin-top: 6%;
+    top: 0;
+      
+
+}
+
+.list{
+    text-align: left;
+    margin: 6%;
+}
+
+
+.test img{
+    width: 5%;
+    display: inline-block;    
+    margin: auto;
+    float: left;
+}
+
+.test button {
+    background-color: #55acee;
+}
+
+.test ul {
+
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    text-align: left;
+
+
+    
+}
+.cardb {
+    
+    text-align: left;
+
+}
+
